@@ -30,3 +30,6 @@ Top Schools without Thomas grade 9:
 
 ![Top_schools_NT](https://github.com/JaniceBgithub/School_District_Analysis/blob/master/Resources/top_school_NT.png)
 
+
+
+
