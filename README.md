@@ -30,6 +30,11 @@ Top Schools with Thomas Grade 9 removed:
 
 ![Top_school_NT](https://github.com/JaniceBgithub/School_District_Analysis/blob/master/Resources/top_school_NT.png)
 
+## Bottom Schools in District
+
+There were no changes to the bottom schools in the district
+
+![Bottom_schools](https://github.com/JaniceBgithub/School_District_Analysis/blob/master/Resources/bottom_school_NT.png)
 
 
 
