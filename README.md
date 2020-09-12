@@ -68,10 +68,17 @@ The results by school size did not change with removal of Thomas Grade 9 student
 
 ![size](https://github.com/JaniceBgithub/School_District_Analysis/blob/master/Resources/school_size_NT.png)
 
+## Results by school type
 
+The results by school type changed slightly for the charter school (of which Thomas is a part of)
 
+With Thomas grade 9:
 
+![type_WT](https://github.com/JaniceBgithub/School_District_Analysis/blob/master/Resources/school_type_WT.png)
 
+Without Thomas grade 9:
+
+![Type_NT](https://github.com/JaniceBgithub/School_District_Analysis/blob/master/Resources/school_type_NT.png)
 
 
 
