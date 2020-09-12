@@ -89,5 +89,13 @@ Without Thomas grade 9:
 ![Type_NT](https://github.com/JaniceBgithub/School_District_Analysis/blob/master/Resources/school_type_NT.png)
 
 
+# Summary
+
+The four main things that changed when Thomas High School Grade 9 was removed include: 
+ 1. Math score dropped 0.1% when Thomas grade 9 students were removed
+ 2. % passing math dropped from 75.0 to 74.8% when Thomas grade 9 was removed
+ 3. % passing reading dropped 0.1% when Thomas grade 9 was removed
+ 4. The overall passing rate dropped from 65.2% to 64.8% when Thomas grade 9 was removed
+
 
 
