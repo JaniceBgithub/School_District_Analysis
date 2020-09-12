@@ -6,9 +6,17 @@ The school board has notified Maria and her supervisor that the students_complet
 
 The data analysis was run twice: the first time with all data included, the second time with Thomas' 9th grade students removed. 
 
-## Overall district scores
+## Overall district metrics
 
-The overall district scores changed slightly with the removal of 461 grade 9 Thomas High School students.  Most scores dropped by 0.1 to 0.3% with the exception of the reading score which stayed the same.  
+The overall district scores changed slightly with the removal of 461 grade 9 Thomas High School students.  The seven major metric changes are: 
+ - The grade 9 Thomas students were rmeoved from the analysis thus dropping the student count.  In reality, these students are still registered at Thomas!
+ - School budgets stayed the same
+ - Math score dropped 0.1% when Thomas grade 9 students were removed
+ - Reading score stayed the same with Thomas grade 9 were removed
+ - % passing math dropped from 75.0 to 74.8% when Thomas grade 9 was removed
+ - % passing reading dropped 0.1% when Thomas grade 9 was removed
+ - The overall passing rate dropped from 65.2% to 64.8% when Thomas grade 9 was removed
+
 
 All data: 
 
