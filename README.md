@@ -1,6 +1,6 @@
 # School_District_Analysis: Module 4 Challenge
 
-The school board has notified Maria and her supervisor that the students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards and have turned to Maria for help. She has asked you to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Once you’ve replaced the math and reading scores, Maria would like you to repeat the school district analysis that you did in this module and write up a report to describe how these changes affected the overall analysis.
+The school board has notified Maria and her supervisor that the students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards and have turned to Maria for help. She has asked me to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. A variety of metrics were re-run and compared against the original data to determine the effect that removing the Grade 9 Thomas High School students had. 
 
 # Results
 
@@ -26,7 +26,7 @@ With Thomas grade 9 removed:
 
 ![district_NT](https://github.com/JaniceBgithub/School_District_Analysis/blob/master/Resources/district_NT.png)
 
-## Top Schools in District
+## Top Schools in district
 
 The order of the top schools in the district changed when the grade 9 Thomas High School Students were removed. 
 
@@ -38,7 +38,7 @@ Top Schools with Thomas Grade 9 removed (90.6% overall passing rate):
 
 ![Top_school_NT](https://github.com/JaniceBgithub/School_District_Analysis/blob/master/Resources/top_school_NT.png)
 
-## Bottom Schools in District
+## Bottom Schools in district
 
 There were no changes to the bottom schools in the district
 
@@ -53,7 +53,7 @@ The math scores by grade are:
 ## Reading Scores with Thomas Grade 9 removed
 ![reading_grade](https://github.com/JaniceBgithub/School_District_Analysis/blob/master/Resources/reading_scores_grade_NT.png)
 
-## Results by School 
+## Results by school 
 
 With Thomas grade 9 data included:
 
