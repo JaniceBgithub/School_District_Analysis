@@ -12,9 +12,12 @@ The overall district scores changed slightly:
 
 All data: 
 
-![district_WT.png][https://github.com/JaniceBgithub/School_District_Analysis/blob/master/Resources/district_WT.png]
+![district_WT][https://github.com/JaniceBgithub/School_District_Analysis/blob/master/Resources/district_WT.png]
 
-With Thomas grade 9 remove: 
+With Thomas grade 9 removed: 
 
-![district_NT.png][https://github.com/JaniceBgithub/School_District_Analysis/blob/master/Resources/district_NT.png]
+![district_NT][https://github.com/JaniceBgithub/School_District_Analysis/blob/master/Resources/district_NT.png]
+
+
+
 
