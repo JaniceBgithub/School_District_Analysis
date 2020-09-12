@@ -22,7 +22,11 @@ With Thomas grade 9 removed:
 
 The order of the top schools in the district changed when the grade 9 Thomas High School Students were removed
 
+Top Schools with Thomas grade 9 info:
+
 ![Top_schools_WT](https://github.com/JaniceBgithub/School_District_Analysis/blob/master/Resources/top_school_WT.png)
+
+Top Schools with Thomas Grade 9 removed: 
 
 ![Top_school_NT](https://github.com/JaniceBgithub/School_District_Analysis/blob/master/Resources/top_school_NT.png)
 
