@@ -56,6 +56,20 @@ Without Thomas grade 9 data:
 ![School_NT](https://github.com/JaniceBgithub/School_District_Analysis/blob/master/Resources/per_school_NT.png)
 
 
+## Results by spending
+
+Thomas high school is in the lowest spending bucket so removal of grade 9 information made some very small changes in this bucket.  No other buckets changed.
+
+Spending with Thomas high school:
+
+![spending_WT](https://github.com/JaniceBgithub/School_District_Analysis/blob/master/Resources/spending_summary_WT.png)
+
+Spending without Thomas high school: 
+
+![Spending_NT](https://github.com/JaniceBgithub/School_District_Analysis/blob/master/Resources/spending_summary_NT.png)
+
+
+
 
 
 
