@@ -11,8 +11,10 @@ The data analysis was run twice: the first time with all data included, the seco
 The overall district scores changed slightly: 
 
 All data: 
+
 ![district_WT.png][https://github.com/JaniceBgithub/School_District_Analysis/blob/master/Resources/district_WT.png]
 
 With Thomas grade 9 remove: 
+
 ![district_NT.png][https://github.com/JaniceBgithub/School_District_Analysis/blob/master/Resources/district_NT.png]
 
