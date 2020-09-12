@@ -6,9 +6,9 @@ The school board has notified Maria and her supervisor that the students_complet
 
 The data analysis was run twice: the first time with all data included, the second time with Thomas' 9th grade students removed. 
 
-## overall district scores
+## Overall district scores
 
-The overall district scores changed slightly: 
+The overall district scores changed slightly with the removal of 461 grade 9 Thomas High School students.  Most scores dropped by 0.1 to 0.3% with the exception of the reading score which stayed the same.  
 
 All data: 
 
@@ -18,6 +18,12 @@ With Thomas grade 9 removed:
 
 ![district_NT](https://github.com/JaniceBgithub/School_District_Analysis/blob/master/Resources/district_NT.png)
 
+## Top Schools in District
+
+The order of the top schools in the district changed when the grade 9 Thomas High School Students were removed
+
+![Top_schools_WT](https://github.com/JaniceBgithub/School_District_Analysis/blob/master/Resources/top_school_WT.png)
 
 
+![Top_schools_NT](https://github.com/JaniceBgithub/School_District_Analysis/blob/master/Resources/top_school_NT.png)
 
