@@ -45,5 +45,18 @@ The math scores by grade are:
 ## Reading Scores with Thomas Grade 9 removed
 ![reading_grade](https://github.com/JaniceBgithub/School_District_Analysis/blob/master/Resources/reading_scores_grade_NT.png)
 
+## Results by School 
+
+With Thomas grade 9 data included:
+
+![School_WT](https://github.com/JaniceBgithub/School_District_Analysis/blob/master/Resources/per_school_WT.png)
+
+Without Thomas grade 9 data: 
+
+![School_NT](https://github.com/JaniceBgithub/School_District_Analysis/blob/master/Resources/per_school_NT.png)
+
+
+
+
 
 
